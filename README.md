@@ -1,11 +1,14 @@
 # TrainerLights
+Hackster link to schematics and 3D Print case design
+
+https://www.hackster.io/hongo2/trainerlights-training-system-to-improve-athletes-reflexes-96d988
+
+
+
 TrainerLights Training System to Improve Athletes' Reflexes
 
 Look All the photos and videos in this link:
 https://photos.app.goo.gl/bTA0y0GDYsPbmkWq1
-
-Hackster link to schematics and 3D Print case design
-https://www.hackster.io/hongo2/trainerlights-training-system-to-improve-athletes-reflexes-96d988
 
 
 SomeVideos...
