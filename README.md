@@ -7,6 +7,8 @@ https://www.hackster.io/hongo2/trainerlights-training-system-to-improve-athletes
 
 TrainerLights Training System to Improve Athletes' Reflexes
 
+It is a sports training system for athletes, which allows to measure and increase the capacity of reaction time to stimulation, or reflexes.
+
 Look All the photos and videos in this link:
 https://photos.app.goo.gl/bTA0y0GDYsPbmkWq1
 
